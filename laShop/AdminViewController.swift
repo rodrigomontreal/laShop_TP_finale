@@ -20,7 +20,7 @@ class AdminViewController: UIViewController, UITableViewDelegate, UITableViewDat
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let selectedCell:UITableViewCell = tableView.cellForRow(at: indexPath as IndexPath)!
-        selectedCell.contentView.backgroundColor = UIColor.darkGray
+        selectedCell.contentView.backgroundColor = UIColor.clear
         
     }
     
