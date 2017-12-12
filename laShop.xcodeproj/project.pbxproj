@@ -70,8 +70,6 @@
 		5BEB56871FD3BCBB007686CD /* pelicule_admin.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BEB56861FD3BCBA007686CD /* pelicule_admin.png */; };
 		9B5D00CB1FD6F8F50014FA9F /* Interface_Cristine .png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5D00C91FD6F8F30014FA9F /* Interface_Cristine .png */; };
 		9B5D00CC1FD6F8F50014FA9F /* Lauchscreen_Crist.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5D00CA1FD6F8F40014FA9F /* Lauchscreen_Crist.png */; };
-		9B5D00CE1FD6FDA70014FA9F /* Interface_cristine .png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5D00CD1FD6FDA60014FA9F /* Interface_cristine .png */; };
-		9B5D00D01FD708B20014FA9F /* logo_fondo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5D00CF1FD708B00014FA9F /* logo_fondo.png */; };
 		9B690D201FD1FCA000C91B7F /* logo4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B690D1F1FD1FCA000C91B7F /* logo4.png */; };
 		9BCAD8EC1FD1C0B8008A9C06 /* Plan de travail 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BCAD8EA1FD1C0B8008A9C06 /* Plan de travail 2.png */; };
 		9BCAD8ED1FD1C0B8008A9C06 /* pelicule3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BCAD8EB1FD1C0B8008A9C06 /* pelicule3.png */; };
@@ -81,6 +79,7 @@
 		9BCAD8F71FD1C3D5008A9C06 /* Champagne & Limousines Bold Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9BCAD8F31FD1C3D2008A9C06 /* Champagne & Limousines Bold Italic.ttf */; };
 		9BCAD8F81FD1C3D5008A9C06 /* Champagne & Limousines Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9BCAD8F41FD1C3D4008A9C06 /* Champagne & Limousines Bold.ttf */; };
 		9BCAD8FA1FD1C56B008A9C06 /* logo3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BCAD8F91FD1C56B008A9C06 /* logo3.png */; };
+		9BD249921FDF3A50002E9819 /* Interface_christine.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD249911FDF3A4B002E9819 /* Interface_christine.png */; };
 		9BD906AB1FD61C650010E1B5 /* Interface 1 .png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD906AA1FD61C630010E1B5 /* Interface 1 .png */; };
 		9BD906AD1FD620FB0010E1B5 /* Interface 1.1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD906AC1FD620FA0010E1B5 /* Interface 1.1.png */; };
 		9BD906B01FD634C90010E1B5 /* Interface1_final.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD906AE1FD634C70010E1B5 /* Interface1_final.png */; };
@@ -154,8 +153,6 @@
 		5BEB56861FD3BCBA007686CD /* pelicule_admin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pelicule_admin.png; path = Images/pelicule_admin.png; sourceTree = "<group>"; };
 		9B5D00C91FD6F8F30014FA9F /* Interface_Cristine .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Interface_Cristine .png"; path = "Images/Interface_Cristine .png"; sourceTree = "<group>"; };
 		9B5D00CA1FD6F8F40014FA9F /* Lauchscreen_Crist.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Lauchscreen_Crist.png; path = Images/Lauchscreen_Crist.png; sourceTree = "<group>"; };
-		9B5D00CD1FD6FDA60014FA9F /* Interface_cristine .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Interface_cristine .png"; path = "Images/Interface_cristine .png"; sourceTree = "<group>"; };
-		9B5D00CF1FD708B00014FA9F /* logo_fondo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo_fondo.png; path = Images/logo_fondo.png; sourceTree = "<group>"; };
 		9B690D1F1FD1FCA000C91B7F /* logo4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo4.png; path = Images/logo4.png; sourceTree = "<group>"; };
 		9BCAD8EA1FD1C0B8008A9C06 /* Plan de travail 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Plan de travail 2.png"; path = "Images/Plan de travail 2.png"; sourceTree = "<group>"; };
 		9BCAD8EB1FD1C0B8008A9C06 /* pelicule3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pelicule3.png; path = Images/pelicule3.png; sourceTree = "<group>"; };
@@ -165,6 +162,7 @@
 		9BCAD8F31FD1C3D2008A9C06 /* Champagne & Limousines Bold Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Champagne & Limousines Bold Italic.ttf"; path = "fonts/Champagne & Limousines Bold Italic.ttf"; sourceTree = "<group>"; };
 		9BCAD8F41FD1C3D4008A9C06 /* Champagne & Limousines Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Champagne & Limousines Bold.ttf"; path = "fonts/Champagne & Limousines Bold.ttf"; sourceTree = "<group>"; };
 		9BCAD8F91FD1C56B008A9C06 /* logo3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo3.png; path = Images/logo3.png; sourceTree = "<group>"; };
+		9BD249911FDF3A4B002E9819 /* Interface_christine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Interface_christine.png; path = Images/Interface_christine.png; sourceTree = "<group>"; };
 		9BD906AA1FD61C630010E1B5 /* Interface 1 .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Interface 1 .png"; path = "Images/Interface 1 .png"; sourceTree = "<group>"; };
 		9BD906AC1FD620FA0010E1B5 /* Interface 1.1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Interface 1.1.png"; path = "Images/Interface 1.1.png"; sourceTree = "<group>"; };
 		9BD906AE1FD634C70010E1B5 /* Interface1_final.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Interface1_final.png; path = Images/Interface1_final.png; sourceTree = "<group>"; };
@@ -186,8 +184,7 @@
 		003D22DC1FBF0AA000AAA9DF /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				9B5D00CF1FD708B00014FA9F /* logo_fondo.png */,
-				9B5D00CD1FD6FDA60014FA9F /* Interface_cristine .png */,
+				9BD249911FDF3A4B002E9819 /* Interface_christine.png */,
 				9B5D00C91FD6F8F30014FA9F /* Interface_Cristine .png */,
 				9B5D00CA1FD6F8F40014FA9F /* Lauchscreen_Crist.png */,
 				9BD906B21FD63D0C0010E1B5 /* interface3.png */,
@@ -371,7 +368,6 @@
 				5BA0A4141FD4E60E006BAF32 /* Icon-88.png in Resources */,
 				9BCAD8EF1FD1C2F4008A9C06 /* button_rouge.png in Resources */,
 				9BCAD8F51FD1C3D5008A9C06 /* Champagne & Limousines Italic.ttf in Resources */,
-				9B5D00D01FD708B20014FA9F /* logo_fondo.png in Resources */,
 				5BA0A4131FD4E60E006BAF32 /* Icon-64.png in Resources */,
 				0058B06D1F127B6E008EA176 /* LaunchScreen.storyboard in Resources */,
 				9BD906AD1FD620FB0010E1B5 /* Interface 1.1.png in Resources */,
@@ -406,7 +402,6 @@
 				5BA0A4381FD4FE54006BAF32 /* tripiede_2.png in Resources */,
 				5BA0A41B1FD4E60E006BAF32 /* Icon-172.png in Resources */,
 				5BA0A43B1FD4FE54006BAF32 /* tripiede_4.png in Resources */,
-				9B5D00CE1FD6FDA70014FA9F /* Interface_cristine .png in Resources */,
 				003D22E01FBF0DF200AAA9DF /* nothing.png in Resources */,
 				5BA0A4101FD4E60E006BAF32 /* Icon-128.png in Resources */,
 				5BA0A4081FD4E60E006BAF32 /* Icon-100.png in Resources */,
@@ -425,6 +420,7 @@
 				5BA0A41D1FD4E60E006BAF32 /* Icon-40.png in Resources */,
 				9BD906AB1FD61C650010E1B5 /* Interface 1 .png in Resources */,
 				5BA0A3DE1FD4BB5D006BAF32 /* cinema_red_carpet.png in Resources */,
+				9BD249921FDF3A50002E9819 /* Interface_christine.png in Resources */,
 				5BA0A3E01FD4BD2D006BAF32 /* cinema_room.png in Resources */,
 				9BD906B11FD634C90010E1B5 /* button-ticket.png in Resources */,
 				003D22DE1FBF0AC900AAA9DF /* cam.jpg in Resources */,
